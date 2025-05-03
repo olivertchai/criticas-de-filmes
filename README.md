@@ -11,9 +11,15 @@ Descrição do projeto: Será um espaço onde os usuários poderão buscar filme
 
 Prototipação no Figma: 
 Design System: Link para o documento que descreve o Design System da aplicação.
+
 Framework CSS: Tailwind
 Dependências: Lista das bibliotecas JavaScript utilizadas. 
+
 Link para o site em produção: 
+
+Link da API do TMDB:
+https://developer.themoviedb.org/docs/append-to-response
+
 Checklist de Funcionalidades:
 Instruções de Execução: Passos detalhados para configurar e executar a aplicação localmente.
 Telas da Aplicação: Imagens de algumas telas da aplicação. 
