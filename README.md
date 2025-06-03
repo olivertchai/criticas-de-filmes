@@ -9,14 +9,22 @@ RA: 2409437
 
 Descrição do projeto: Será um espaço onde os usuários poderão buscar filmes e séries, acessar informações detalhadas por meio da API e registrar suas opiniões através de críticas e avaliações. 
 
-Prototipação no Figma: 
-Design System: Link para o documento que descreve o Design System da aplicação.
+Prototipação no Figma: https://www.figma.com/design/Fw1Qm0CfVXz5ZPSTHx7qPu/Roll_The_Credits?node-id=0-1&p=f&t=1uBbX6dkqcVWxepl-0
+
+Design System: https://docs.google.com/document/d/1ruNK2IZrhQJGIIqJM7-c5p39fPDzGyPnECb9Lnc_FaM/edit?usp=sharing
+
 Framework CSS: Tailwind
+
 Dependências: Lista das bibliotecas JavaScript utilizadas. 
+
 Link para o site em produção: 
+
 Checklist de Funcionalidades:
+
 Instruções de Execução: Passos detalhados para configurar e executar a aplicação localmente.
+
 Telas da Aplicação: Imagens de algumas telas da aplicação. 
+
 📖 Checklist | Indicadores de Desempenho (ID) dos Resultados de Aprendizagem (RA)
 
 RA1 - Prototipar e projetar interfaces gráficas de usuário, considerando princípios de usabilidade e experiência do usuário.
@@ -32,7 +40,7 @@ RA3 - Sincronizar dados entre a interface gráfica e o modelo de dados, aplicand
 - [] ID8: Aplicar técnicas de one-way data binding, como Interpolation e Property Binding, para exibir e atualizar dados na interface gráfica de maneira unidirecional.
 - [] ID9: Aplicar técnicas de event binding para capturar eventos do usuário na interface e interagir com o modelo de dados.
 - [] ID10: Aplicar técnicas de two-way data binding para criar uma sincronização bidirecional automática entre a interface e o modelo de dados.
-- [] ID11: Usar variáveis de template para manipulação dinâmica dos dados na interface gráfica.
+- [x] ID11: Usar variáveis de template para manipulação dinâmica dos dados na interface gráfica.
 RA4 - Implementar comunicação eficaz entre componentes, utilizando padrões de comunicação e serviços para compartilhar lógica e dados.
 - [x] ID12: Criar comunicação entre componentes não relacionados hierarquicamente por meio de serviços através do mecanismo de injeção de dependência.
 - [x] ID13: Utilizar as diretivas @Input ou @Output para comunicanção em uma hierarquia de componentes.
